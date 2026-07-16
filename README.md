@@ -6,7 +6,7 @@ Junior QA Engineer from Bulgaria — after 4 years as a Transportation Specialis
 - 🔍 Manual testing: test cases, bug reports, exploratory testing
 - 🛠 Tools & skills: JavaScript, HTML/CSS, Git & GitHub, Postman
 - 📚 Currently learning: test automation
-- 📫 Contact:[LinkedIn](https://www.linkedin.com/in/ekaterina-pobornikov-9a92122b3/) · ekaterinna.iv@gmail.com
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/ekaterina-pobornikov-9a92122b3/) · ekaterinna.iv@gmail.com
 
 ## 🗂 Projects
 *Coming soon — manual testing documentation and automation projects.*
