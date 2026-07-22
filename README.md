@@ -9,4 +9,4 @@ Junior QA Engineer from Bulgaria — after 4 years as a Transportation Specialis
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/ekaterina-pobornikov-9a92122b3/) · ekaterinna.iv@gmail.com
 
 ## 🗂 Projects
-*Coming soon — manual testing documentation and automation projects.*
+- [GamePlay — Playwright E2E Tests](https://github.com/ekaterina-pobornikov/gameplay-playwright-tests) — course project: 8 automated tests (auth, navigation, CRUD) with Playwright
